@@ -1,5 +1,5 @@
 <?php
 
-#to jest plik dla testu
+#to jest plik testowy
 
 ?>
