@@ -9,7 +9,7 @@
 <body>
 <?
 
-echo("Testowy tekst");
+
 
 ?>
 </body>
